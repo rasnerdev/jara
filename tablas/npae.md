@@ -24,4 +24,4 @@
 - **[ZAS_BAPI_PATIENT_UPD_NPAE](../modulos-de-funciones/zas_bapi_patient_upd_npae.md)**: Añade a la NPAE todas las áreas que no tenga el paciente.
 <hr />
 
-### [```ÍNDICE```](../indice.md) > [```TABLAS```](./tablas)
+### [```ÍNDICE```](../indice.md) > [```TABLAS```](./indice.md)

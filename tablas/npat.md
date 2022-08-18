@@ -231,5 +231,5 @@ SELECT SINGLE * FROM npat INTO ls_npat
 
 <hr />
 
-### [```ÍNDICE```](../indice.md) > [```TABLAS```](./tablas)
+### [```ÍNDICE```](../indice.md) > [```TABLAS```](./indice.md)
 
